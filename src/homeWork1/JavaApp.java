@@ -10,7 +10,7 @@ public class JavaApp {
         double d = 30.0;
         char c = 'c';
         boolean bool = true;
-        String st = "Hello";
+        String st = "HelloWorld";
 
         System.out.println(summ(1.0f, 2.0f, 100.0f, 4.0f));
         System.out.println(isInRange(12, 5));
@@ -37,7 +37,7 @@ public class JavaApp {
             System.out.println("Число положительное");
         } else {
             System.out.println("Число отрицательное");
-        }
+                    }
     }
 
     public static boolean isNegativeOrPositive(int a) {
