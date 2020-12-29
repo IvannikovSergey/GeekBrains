@@ -1,4 +1,4 @@
-package homeWork8;
+package Begin.homeWork8;
 
 import javax.swing.*;
 import java.awt.*;

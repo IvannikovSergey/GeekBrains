@@ -1,7 +1,6 @@
-package homeWork8;
+package Begin.homeWork8;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class Logic {
     static int SIZE;

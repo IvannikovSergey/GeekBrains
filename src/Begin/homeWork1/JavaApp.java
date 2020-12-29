@@ -1,4 +1,4 @@
-package homeWork1;
+package Begin.homeWork1;
 
 public class JavaApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package homeWork2;
+package Begin.homeWork2;
 
 public class Arrays {
 
